@@ -6,6 +6,7 @@ public class inputs {
         System.out.println("My name is:"+name);
         Boolean B = sc.nextBoolean();
         System.out.println(B);
+        sc.close();
 
     }
 }
